@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Sushen Sirohi</h1>
-<h3 align="center">High School Student, Developer and Athlete</h3>
+<h3 align="center">A High School Student, Developer and Athlete</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirohisushen&label=Profile%20views&color=14d279&style=flat" alt="sirohisushen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirohisushen" alt="sirohisushen" /></a> </p>
 
-- 🔭 I’m currently working on [Flown](https://github.com/sirohisushen/flown)
+- 🔭 I’m currently working on [Firstlight](https://github.com/sirohisushen/firstlight)
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👯 I’m looking to collaborate on [Swish](https://github.com/sirohisushen/swish)
+- 👯 I’m looking to collaborate on [Firstlight](https://github.com/sirohisushen/firstlight)
 
-- 🤝 I’m looking for help with [MonkeyDB](https://github.com/sirohisushen/monkeydb)
+- 🤝 I’m looking for help with [RSSM](https://github.com/sirohisushen/rssm)
 
 - 👨‍💻 All of my projects are available at [https://shane-sirohi.web.app](https://shane-sirohi.web.app)
 
