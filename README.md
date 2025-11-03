@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sushen Sirohi</h1>
-<h3 align="center">High School Student, Founder of Swish and Flown, Student and Athlete</h3>
+<h1 align="center">Hi, I'm Sushen Sirohi</h1>
+<h3 align="center">High School Student, Developer and Athlete</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirohisushen&label=Profile%20views&color=14d279&style=flat" alt="sirohisushen" /> </p>
 
