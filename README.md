@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirohisushen" alt="sirohisushen" /></a> </p>
 
-- 🔭 I’m currently working on [Firstlight](https://github.com/sirohisushen/firstlight)
+- 🔭 I’m currently working on [Mirage](https://github.com/sirohisushen/mirage) and [NueMail](https://github.com/sirohisushen/nuemail)
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👯 I’m looking to collaborate on [Firstlight](https://github.com/sirohisushen/firstlight)
+- 👯 I’m looking to collaborate on [RelNet](https://github.com/sirohisushen/RelNet)
 
-- 🤝 I’m looking for help with [RSSM](https://github.com/sirohisushen/rssm)
+- 🤝 I’m looking for help with [Mirage](https://github.com/sirohisushen/mirage)
 
 - 👨‍💻 All of my projects are available at [https://shane-sirohi.web.app](https://shane-sirohi.web.app)
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/sushensirohi](https://linkedin.com/in/sushensirohi)
 
-- ⚡ Fun fact **I have been lifting weights and practicing boxing since 4 years**
+- ⚡ Fun fact **I have been lifting weights and boxing for 4 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
