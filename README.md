@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirohisushen" alt="sirohisushen" /></a> </p>
 
-- 🔭 I’m currently working on [Mirage](https://github.com/sirohisushen/mirage) and [NueMail](https://github.com/sirohisushen/nuemail)
+- 🔭 I’m currently working on [Firstlight](https://github.com/sirohisushen/firstlight) 
 
 - 🌱 I’m currently learning **AI/ML**
 
