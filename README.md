@@ -15,7 +15,7 @@ Minimal, AI-native mail client designed for speed and efficiency. Built core AI 
 Lightweight storage system implemented in Python. Focused on performance and simplicity.
 
 ### [Mirage](https://github.com/sirohisushen/Mirage)
-[Brief one-line description of Mirage project—e.g., ML-powered tool / product]
+portable AI cloud ecosystem, a full-stack AI infrastructure you can run on your laptop, built like an enterprise-grade AI platform.
 
 ---
 
